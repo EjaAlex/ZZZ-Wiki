@@ -46,7 +46,7 @@ L'organizzazione opera con una struttura molto più piccola rispetto alla NEPS o
 
 ## Membri Principali
 
-### Hoshimi Miyabi
+### [[Hoshimi Miyabi]]
 
 Hoshimi Miyabi
 
@@ -141,7 +141,7 @@ I suoi membri vengono inviati nelle zone più pericolose della città e combatto
 
 ## Collegamenti con altre fazioni
 
-### NEPS
+### [[Criminal Investigation Special Response Team (NEPS)]]
 
 La NEPS gestisce l'ordine pubblico.
 
@@ -149,25 +149,25 @@ La Section 6 interviene quando la situazione diventa troppo pericolosa.
 
 ---
 
-### Defense Force
+### [[New Eridu Defense Force]]
 
 Condivide obiettivi militari e di sicurezza.
 
 ---
 
-### Void Hunters
+### [[Void Hunters]]
 
 Miyabi collega direttamente la Section 6 alla tradizione dei Void Hunters.
 
 ---
 
-### HIA
+### [[Hollow Investigative Association (HIA)]]
 
 Molte operazioni richiedono dati e analisi provenienti dalla Hollow Investigation Association.
 
 ---
 
-## Il Mistero di Tailless
+## Il Mistero di [[Tailless]]
 
 Uno degli aspetti più importanti della lore della Section 6 riguarda Miyabi e la sua spada.
 

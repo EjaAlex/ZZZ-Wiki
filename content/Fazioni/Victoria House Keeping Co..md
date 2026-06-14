@@ -173,7 +173,7 @@ Questo suggerisce che la compagnia svolga attività molto più ampie rispetto a 
 
 ## Collegamenti con altre fazioni
 
-### TOPS Alliance
+### [[TOPS Alliance]]
 
 La Victoria Housekeeping lavora spesso per clienti appartenenti alle élite economiche di New Eridu.
 
@@ -181,13 +181,13 @@ Questo la colloca vicino agli ambienti influenzati da TOPS.
 
 ---
 
-### Phaethon
+### [[Phaethon]]
 
 Le operazioni negli Hollow portano occasionalmente la compagnia a collaborare con Proxy esperti.
 
 ---
 
-### NEPS
+### [[Criminal Investigation Special Response Team (NEPS)]]
 
 Pur non essendo un'organizzazione governativa, la compagnia si muove spesso negli stessi ambienti delle autorità cittadine.
 

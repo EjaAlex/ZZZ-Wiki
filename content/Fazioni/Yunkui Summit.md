@@ -99,7 +99,7 @@ Yunkui Summit non è solo una scuola di combattimento: sembra custodire conoscen
 
 ## Collegamenti con altri personaggi e fazioni
 
-### Phaethon
+### [[Phaethon]]
 
 Belle e Wise entrano in contatto con Yunkui Summit durante la loro ricerca della verità.
 
@@ -107,13 +107,13 @@ Questo collegamento è importante perché Yunkui Summit potrebbe offrire a Phaet
 
 ---
 
-### Ye Shunguang e i Void Hunters
+### [[Ye Shunguang]] e i [[Void Hunters]]
 
 La presenza di Ye Shunguang collega direttamente Yunkui Summit al sistema dei Void Hunters e alle armi speciali come la Qingming Sword.
 
 ---
 
-### Waifei Peninsula
+### [[Waifei Peninsula]]
 
 Yunkui Summit è profondamente legata alla Waifei Peninsula, una regione importante per il Porcelume e per la nuova fase della storia.
 

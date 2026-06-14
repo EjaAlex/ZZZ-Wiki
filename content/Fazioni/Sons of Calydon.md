@@ -148,19 +148,19 @@ La loro esperienza pratica con questi fenomeni è enorme.
 
 ## Collegamenti con altre fazioni
 
-### New Eridu
+### [[New Eridu]]
 
 Pur mantenendo rapporti con la città, i Sons of Calydon conservano una forte indipendenza.
 
 ---
 
-### Cunning Hares
+### [[Cunning Hares]]
 
 Entrambe le fazioni condividono una mentalità pragmatica e orientata alla sopravvivenza.
 
 ---
 
-### TOPS Alliance
+### [[TOPS Alliance]]
 
 Le grandi corporazioni vedono spesso l'Outer Ring come una fonte di risorse.
 
@@ -168,7 +168,7 @@ Questo può generare tensioni con gruppi locali come i Sons of Calydon.
 
 ---
 
-### Phaethon
+### [[Phaethon]]
 
 Le attività di Proxy e navigazione Hollow spesso portano Phaethon a collaborare con le comunità dell'Outer Ring.
 

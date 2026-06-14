@@ -1,7 +1,6 @@
 
 ![[Cunning Hares.jpeg]]
 
-
 ## Chi sono
 
 I **Cunning Hares**, conosciuti ufficialmente come **Gentle House**, sono una piccola agenzia indipendente che accetta lavori di ogni tipo a New Eridu.
@@ -179,25 +178,25 @@ Questo li rende una delle rappresentazioni più realistiche di come le persone c
 
 ## Collegamenti con altre fazioni
 
-### Phaethon
+### [[Phaethon]]
 
 Partner più frequenti.
 
 ---
 
-### Belobog Heavy Industries
+### [[Belobog Heavy Industries]]
 
 Coinvolti direttamente nella storyline iniziale legata a Koleda e Khors Belobog.
 
 ---
 
-### NEPS
+### [[Criminal Investigation Special Response Team (NEPS)]]
 
 Occasionalmente collaborano con le forze dell'ordine, anche se non sempre in modo ufficiale.
 
 ---
 
-### TOPS
+### [[TOPS Alliance]]
 
 Spesso finiscono coinvolti indirettamente in problemi generati dalle grandi corporazioni.
 

@@ -128,15 +128,15 @@ Senza aziende di questo tipo, la città avrebbe enormi difficoltà a sopravviver
 
 ## Collegamenti con altre fazioni
 
-### TOPS Alliance
+### [[TOPS Alliance]]
 
 Belobog è una delle principali corporazioni della città e mantiene rapporti con le grandi strutture economiche di New Eridu.
 
-### Cunning Hares
+### [[Cunning Hares]]
 
 La compagnia entra direttamente in contatto con Nicole e il suo gruppo durante gli eventi iniziali della storia.
 
-### Hollow Investigation Association (HIA)
+### [[Hollow Investigative Association (HIA)]]
 
 Le attività industriali vicino agli Hollow richiedono spesso coordinamento con le autorità competenti.
 

@@ -90,7 +90,7 @@ Qingyi
 
 - Partner di Zhu Yuan.
     
-- Intelligent Construct.
+- [[Intelligent Constructs]].
     
 - Estremamente esperta nell'analisi e nelle indagini.
     
@@ -159,7 +159,7 @@ Per questo motivo gli agenti devono possedere competenze molto più avanzate ris
 
 ## Collegamenti con altre fazioni
 
-### Section 6
+### [[Section 6 (Hollow Special Operations Section 6)]]
 
 Quando una minaccia supera le capacità della NEPS, interviene la Section 6.
 
@@ -172,7 +172,7 @@ In pratica:
 
 ---
 
-### TOPS Alliance
+### [[TOPS Alliance]]
 
 La NEPS opera all'interno di una città fortemente influenzata dalle grandi corporazioni.
 
@@ -187,7 +187,7 @@ Questo significa che spesso deve bilanciare:
 
 ---
 
-### Hollow Investigation Association (HIA)
+### [[Hollow Investigative Association (HIA)]]
 
 Molte indagini sugli Hollow richiedono collaborazione con la HIA.
 

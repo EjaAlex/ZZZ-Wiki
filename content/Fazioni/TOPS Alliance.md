@@ -118,7 +118,7 @@ In molti casi sembra avere una capacità decisionale paragonabile a quella delle
 
 ## Collegamenti con altre fazioni
 
-### NEPS
+### [[Criminal Investigation Special Response Team (NEPS)]]
 
 La polizia opera in una città fortemente influenzata da TOPS.
 
@@ -126,31 +126,31 @@ Questo significa che molte indagini possono entrare in contatto con interessi co
 
 ---
 
-### HIA
+### [[Hollow Investigative Association (HIA)]]
 
 La ricerca sugli Hollow è spesso finanziata o supportata da interessi economici legati a TOPS.
 
 ---
 
-### Belobog Heavy Industries
+### [[Belobog Heavy Industries]]
 
 Una delle più importanti aziende industriali della città.
 
 ---
 
-### Victoria Housekeeping
+### [[Victoria House Keeping Co.]]
 
 Molti clienti di alto livello appartengono alle élite economiche collegate all'alleanza.
 
 ---
 
-### Phaethon
+### [[Phaethon]]
 
 I migliori Proxy rappresentano una risorsa estremamente preziosa per chiunque operi nel settore Hollow.
 
 ---
 
-## Collegamenti con la Vecchia Eridu
+## Collegamenti con [[Eridu (La Vecchia Capitale)]]
 
 Uno dei grandi misteri riguarda il rapporto tra TOPS e gli eventi della Caduta della Vecchia Capitale.
 
@@ -164,7 +164,7 @@ Questo rende TOPS una delle organizzazioni più sospette dell'intera lore.
 
 ---
 
-## Collegamenti con Helios Academy
+## Collegamenti con [[Helios Academy]]
 
 La Helios Academy collaborava con diverse organizzazioni tecnologiche.
 

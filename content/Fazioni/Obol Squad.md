@@ -83,11 +83,11 @@ Quasi ogni suo membro ha qualche collegamento con perdita, trauma o manipolazion
 
 ## Collegamenti con altre fazioni e personaggi
 
-### New Eridu Defense Force
+### [[New Eridu Defense Force]]
 
 La Obol Squad opera sotto la Defense Force, quindi è parte dell’apparato militare ufficiale di New Eridu.
 
-### Hollow Zero
+### [[Hollow Zero]]
 
 Trigger, Seed, Orphie e Magus sono tutti collegabili, direttamente o indirettamente, alla catastrofe di Hollow Zero e alla caduta della Vecchia Eridu.
 

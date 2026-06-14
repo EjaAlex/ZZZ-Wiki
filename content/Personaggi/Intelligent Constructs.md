@@ -1,4 +1,3 @@
-
 ![[Billy-A-Rank.jpeg]]
 
 Gli **Intelligent Constructs** rappresentano il gradino successivo dell'evoluzione delle macchine.

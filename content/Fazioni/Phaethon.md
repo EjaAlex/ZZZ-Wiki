@@ -115,7 +115,7 @@ Questo gli permette di operare come una sorta di attore indipendente all'interno
 
 ## Collegamenti con altre fazioni
 
-### Cunning Hares
+### [[Cunning Hares]]
 
 Collaboratori più frequenti.
 
@@ -123,13 +123,13 @@ Nicole si affida spesso ai servizi di Phaethon.
 
 ---
 
-### Belobog Heavy Industries
+### [[Belobog Heavy Industries]]
 
 Coinvolti in diverse operazioni industriali e di recupero.
 
 ---
 
-### HIA
+### [[Hollow Investigative Association (HIA)]]
 
 La Hollow Investigation Association utilizza regolarmente Proxy e navigatori.
 
@@ -137,7 +137,7 @@ Phaethon rappresenta uno dei migliori esempi di questa professione.
 
 ---
 
-### Helios Academy
+### [[Helios Academy]]
 
 Il vero cuore dell'organizzazione.
 
@@ -151,7 +151,7 @@ Phaethon non sarebbe mai esistito.
 
 ---
 
-## Collegamento con Eous
+## Collegamento con [[Eous]]
 
 Uno degli aspetti più particolari della fazione.
 
