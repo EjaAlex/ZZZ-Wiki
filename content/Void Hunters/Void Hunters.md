@@ -5,6 +5,7 @@ I **Void Hunters** sono i più grandi eroi della storia di Eridu. Il titolo vien
 
 Ancora oggi gran parte delle informazioni su di loro è classificata nei database più profondi di New Eridu.
 
+---
 
 I Void Hunters di prima generazione erano:
 
@@ -16,15 +17,17 @@ I Void Hunters di prima generazione erano:
 - **[[Remielle Dan]]**
 - **[[Leader della Falkenhayn Mercenary Troupe]]**
   
-  
+  ---
+
 Invece Nella Generazione Attuale Possiamo Trovare:
 
 - [[Hoshimi Miyabi]]
 - [[Ye Shunguang]]
   
   
+  --- 
   
-  
+
 Armi Dei VoidHunters:
 
 - [[Tailless]] -> Hoshimi Miyabi
