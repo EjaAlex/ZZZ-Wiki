@@ -8,3 +8,4 @@ Dentro troverai:
 - Storia
 - Fazioni
 - Riassunti delle patch (senza troppi spoiler)
+- E informazioni Generali su Argomenti Vari
