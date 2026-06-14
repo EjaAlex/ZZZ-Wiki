@@ -11,7 +11,7 @@ Contributi conosciuti:
 - Distrusse il "Hive Lord", un gigantesco Hollow nei cieli.
 - Inventò i Bangboo.
 - Fu CEO del Marcel Group.
-- Fondò Roscaelifer.
+- Fondò [[Roscaelifer]].
 - Guidò le prime spedizioni nel [[Lemnian Hollow]].
 - Scoprì e sfruttò il Lumite Ore utilizzato per creare il Porcelume.
 
@@ -19,7 +19,7 @@ Contributi conosciuti:
 
 Sunbringer non è umana.
 
-È classificata come un **Intelligent Construct**.
+È classificata come un **[[Intelligent Constructs]]**.
 
 ### Dettagli particolarmente importanti per la lore
 
