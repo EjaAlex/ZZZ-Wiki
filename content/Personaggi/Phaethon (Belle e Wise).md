@@ -16,8 +16,21 @@ Dietro la loro reputazione, però, si nasconde una storia strettamente legata al
 
 Dopo la scomparsa di Carole, i due divennero Proxy per scoprire cosa le fosse accaduto e per indagare sulla verità dietro la distruzione di Old Eridu.
 
+
 ---
 
+## Fairy
+
+Durante gli eventi iniziali della storia, Belle e Wise entrano in possesso di Fairy, una delle quattro misteriose Keys.
+
+Fairy si installa autonomamente all'interno dell'H.D.D. e stipula un misterioso contratto con Phaethon, riconoscendolo come proprio Master.
+
+Da quel momento diventa una delle principali alleate dei due fratelli.
+
+La sua comparsa rappresenta uno degli eventi più importanti della storia di Phaethon e collega direttamente Belle e Wise ai misteri delle Keys.
+
+
+---
 ## Gli impianti oculari
 
 Uno degli aspetti più importanti della loro storia riguarda gli impianti ricevuti alla Helios Academy.
@@ -118,6 +131,7 @@ Queste somiglianze suggeriscono che il nome potrebbe essere stato scelto intenzi
 - Gli impianti oculari sembrano essere ancora attivi e continuano a produrre effetti sconosciuti.
 - Nemmeno Belle e Wise conoscono tutta la verità sul progetto che li ha coinvolti.
 - Molte delle informazioni sulla loro infanzia risultano incomplete o mancanti.
+- Fairy ha scelto direttamente Phaethon come proprio Master.
 
 ---
 

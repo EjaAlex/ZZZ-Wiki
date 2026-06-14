@@ -44,7 +44,7 @@ Nel corso della Stagione 2:
 
 ---
 
-# 2. Cosa accadde davvero dentro [[Hollow Zero]]?
+# 2. • Perché [[Hollow Zero]] è diverso dagli altri Hollow?
 
 ## Stato
 
@@ -123,7 +123,7 @@ Qualcuno che ha raggiunto uno stadio superiore.
 
 ---
 
-# 4. Cosa sono veramente [[Phaethon (Belle e Wise)]]?
+# 4. 4. Qual è la vera natura di [[Phaethon (Belle e Wise)]]?
 
 ## Stato
 
@@ -156,7 +156,7 @@ Molti eventi suggeriscono che siano molto più di semplici Proxy.
 
 ---
 
-# 5. Cos'è il Golden Ether?
+# 5. Cos'è il [[Golden Ether]]?
 
 ## Stato
 
@@ -227,7 +227,7 @@ Nessuno sa:
 
 ---
 
-# 7. Qual è il vero obiettivo di Sarah?
+# 7. Qual è il vero obiettivo di [[Sarah Floren]]?
 
 ## Stato
 

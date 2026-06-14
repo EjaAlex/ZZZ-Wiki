@@ -168,7 +168,7 @@ Molti sistemi avanzati sfruttano proprietà Etheriche.
 
 ---
 
-### Esplorazione Hollow
+### Esplorazione [[Hollow]]
 
 Sistemi come:
 
@@ -178,7 +178,7 @@ non potrebbero esistere senza l'Ether.
 
 ---
 
-### Bangboo
+### [[Bangboo]]
 
 Molte tecnologie Bangboo utilizzano componenti Etherici.
 
@@ -208,7 +208,7 @@ Sono estremamente preziosi perché:
 
 ---
 
-# Helios Academy e l'Ether
+# [[Helios Academy]] e l'Ether
 
 La Helios Academy era una delle principali istituzioni dedicate allo studio dell'Ether.
 
@@ -266,6 +266,24 @@ Questo suggerisce l'esistenza di un collegamento ancora sconosciuto tra:
 
 ---
 
+## Ether e Fairy
+
+Fairy è una delle quattro Keys e possiede capacità eccezionali di elaborazione dei dati Hollow.
+
+Poiché gli Hollow sono saturi di Ether, gran parte delle sue funzioni sembrano essere direttamente collegate all'analisi di fenomeni Etherici.
+
+La vera relazione tra Fairy, le Keys e l'Ether non è ancora stata spiegata ufficialmente.
+
+## Ether e le Keys
+
+Le quattro Keys (Fairy, Ghost, Jinni e Youkai) sembrano possedere capacità che superano di gran lunga le normali tecnologie di New Eridu.
+
+Sebbene la loro natura non sia ancora stata spiegata, tutte risultano strettamente associate ai dati Hollow e ai fenomeni Etherici.
+
+La loro origine rimane uno dei più grandi misteri della lore.
+
+---
+
 # Cosa Non Sappiamo Ancora
 
 Nonostante decenni di ricerca, molte domande rimangono senza risposta.
@@ -290,7 +308,7 @@ Non lo sappiamo.
 
 ---
 
-## Golden Ether
+## [[Golden Ether]]
 
 Nei sogni e nelle visioni associate a Phaethon compare il concetto di:
 

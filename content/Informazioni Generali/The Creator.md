@@ -56,6 +56,22 @@ La causa stessa della comparsa degli Hollow.
 Nessuna di queste ipotesi è stata confermata.
 
 ---
+## Collegamento con [[Gli Exaltists]]
+
+Gli Exaltists rappresentano il principale culto dedicato al Creator.
+
+Secondo la loro dottrina:
+
+- il mondo attuale è imperfetto
+- la Refinement è necessaria per preparare il nuovo mondo
+- i Sacrifice rappresentano uno stadio superiore dell'evoluzione
+- la Discesa del Creator porterà una nuova era
+
+Gran parte delle attività degli Exaltists ruota attorno a questo obiettivo.
+
+
+---
+
 
 # Il Collegamento con [[Carole Arna]]
 
@@ -76,8 +92,9 @@ Questo significa che il mistero di:
 
 potrebbe essere in realtà un unico mistero.
 
----
+Questa connessione non è stata ancora confermata ufficialmente.
 
+--- 
 # Livello di conoscenza attuale
 
 ## Confermato
