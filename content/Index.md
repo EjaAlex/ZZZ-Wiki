@@ -2,4 +2,9 @@
   
 Benvenuto nella mia wiki di Zenless Zone Zero.
 
-Test 1
+Dentro troverai"
+- Informazioni su:
+- Personaggi
+- Aree
+- Storia
+- Fazioni
