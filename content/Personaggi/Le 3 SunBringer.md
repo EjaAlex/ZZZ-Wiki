@@ -3,7 +3,7 @@
 
 ## Sunbringer è viva?
 
-Le informazioni più recenti suggeriscono fortemente di sì.
+Le informazioni più recenti suggeriscono che Sunbringer potrebbe non essere completamente scomparsa.
 
 O almeno:
 
@@ -25,21 +25,10 @@ Non stiamo parlando semplicemente di:
 
 Le informazioni attuali fanno pensare a qualcosa di molto più complesso.
 
-Sembra che esistano:
+Le informazioni attualmente disponibili hanno portato parte della community a ipotizzare l'esistenza di più manifestazioni collegate a Sunbringer.
 
-### Sunbringer originale
+Tuttavia la natura esatta di queste entità non è ancora stata spiegata ufficialmente.
 
-La figura storica.
-
-Uno dei leggendari Void Hunters di Prima Generazione.
-
----
-
-### Due ulteriori manifestazioni/istanze
-
-Che condividono identità, memoria o origine con Sunbringer.
-
-Ed è proprio questo che rende la situazione inquietante.
 
 ---
 
@@ -62,7 +51,7 @@ Gli stessi temi che abbiamo visto con:
 
 ---
 
-# Collegamento con Magus
+# Possibili Paralleli con Magnus
 
 Ricordi Magus?
 
@@ -81,7 +70,7 @@ Questo rende molto più credibile ciò che sta accadendo con Sunbringer.
 
 ---
 
-# Collegamento con le Keys
+# Possibili Paralleli con le Keys
 
 Le Keys ci mostrano un'altra cosa.
 
@@ -99,7 +88,7 @@ allora la domanda diventa:
 
 ---
 
-# Collegamento con Carole Arna
+# Possibili Paralleli con Carole Arna
 
 Ed è qui che la lore diventa interessante.
 
@@ -130,7 +119,7 @@ Che è un tema che compare continuamente in:
 
 ---
 
-# Perché Penso che Sia un Argomento Centrale
+# Possibili Implicazioni per la Lore
 
 Molti vedono Sunbringer come "una Void Hunter famosa".
 

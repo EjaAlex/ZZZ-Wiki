@@ -11,6 +11,17 @@ Non sono solo quattro AI potenti, ma quattro entità appartenenti a una stessa c
 
 ---
 
+## Informazioni Confermate
+
+- Le Keys sono quattro Type III General AI.
+- Le Keys conosciute sono Fairy, Ghost, Jinni e Youkai.
+- Sono state inserite nell'Inter-Knot Deep Database da due individui sconosciuti provenienti da fuori New Eridu.
+- I loro creatori stanno monitorando il loro stato di attivazione dall'esterno di New Eridu.
+- Il significato del termine "Key" non è ancora stato spiegato.
+
+
+---
+
 # Fairy
 
 ## Profilo
@@ -59,6 +70,7 @@ Le informazioni ufficiali restano limitate, ma nei teaser lore e nei riferimenti
 - hacking
 - infiltrazione
 - accesso ai sistemi
+Tuttavia la sua funzione ufficiale non è ancora stata rivelata.
 
 ---
 
@@ -178,7 +190,7 @@ Ad oggi la lore ufficiale NON ha ancora spiegato:
 
 ---
 
-# Cose che io terrei d'occhio
+# Teorie e Domande Aperte
 
 Se guardiamo la lore generale di ZZZ, ci sono tre dettagli molto sospetti:
 

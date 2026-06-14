@@ -16,6 +16,8 @@ L'ultima informazione ufficiale nota afferma che:
 
 Il suo destino è tuttora sconosciuto.
 
+Prima della sua scomparsa, Arche fu uno dei primi esseri umani a entrare in contatto diretto con Hollow Zero e a studiarne i fenomeni. Le sue ricerche gettarono le basi per gran parte delle future scoperte della Helios Academy.
+
 ### Dettagli particolarmente importanti per la lore
 
 - È la figura più direttamente collegata a Belle, Wise e Carole Arna.
