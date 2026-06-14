@@ -2,8 +2,7 @@
   
 Benvenuto nella mia wiki di Zenless Zone Zero.
 
-Dentro troverai"
-- Informazioni su:
+Dentro troverai:
 - Personaggi
 - Aree
 - Storia
