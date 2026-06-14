@@ -191,7 +191,7 @@ Potrebbe rappresentare:
 
 ---
 
-# 6. Chi ha creato [[Le Quattro Keys]]?
+# 6. Chi ha creato Le [[Quattro Keys]]?
 
 ## Stato
 
