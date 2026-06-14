@@ -1,7 +1,7 @@
 
 ![[Le 3 versioni di SunBringer.jpeg]]
 
-## Sunbringer è viva?
+## [[SunBringer]] è viva?
 
 Le informazioni più recenti suggeriscono che Sunbringer potrebbe non essere completamente scomparsa.
 

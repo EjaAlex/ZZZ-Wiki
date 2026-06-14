@@ -20,7 +20,7 @@ Prima della sua scomparsa, Arche fu uno dei primi esseri umani a entrare in cont
 
 ### Dettagli particolarmente importanti per la lore
 
-- È la figura più direttamente collegata a Belle, Wise e Carole Arna.
+- È la figura più direttamente collegata a Belle, Wise e [[Carole Arna]].
 - Potrebbe essere il più grande esperto di Hollow della storia.
 - Se qualcuno conosce la vera natura di Hollow Zero, probabilmente è Arche.
 

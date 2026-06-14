@@ -88,7 +88,7 @@ Molte aree restano ancora oggi inesplorate.
 
 ---
 
-# Collegamento con la Helios Academy
+# Collegamento con la [[Helios Academy]]
 
 La **Helios Academy** fu una delle principali istituzioni coinvolte nello studio di Hollow Zero.
 

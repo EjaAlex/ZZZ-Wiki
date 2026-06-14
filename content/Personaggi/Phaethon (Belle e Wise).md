@@ -1,7 +1,7 @@
 ![[69a869f6ecc3980d2ecd7b60d1a88743.jpg|259]]
 
 
-**Belle e Wise** sono i protagonisti di _Zenless Zone Zero_ e operano sotto il nome di **Phaethon**, il leggendario Proxy considerato uno dei migliori di [[New Eridu]].
+**Belle e Wise** sono i protagonisti di _Zenless Zone Zero_ e operano sotto il nome di **Phaethon**, il leggendario [[Proxy]] considerato uno dei migliori di [[New Eridu]].
 
 Dietro la loro reputazione, però, si nasconde una storia strettamente legata alla **[[Helios Academy]]**, a **[[Carole Arna]]** e ai misteri dell'Hollow Zero.
 

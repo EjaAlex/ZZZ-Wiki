@@ -1,42 +1,140 @@
 ![[HDD.jpeg]]
 
-Conosciuto per esteso come **"Hollow Deep Dive System" (H.D.D.)**, il sistema fu inizialmente concepito da **Arche** e sviluppato dalla **[[Helios Academy]]** con il supporto tecnico del **Marcel Group**. La professoressa **[[Carole Arna]]** ne era la ricercatrice principale.
+## Cos'è?
 
-I componenti principali dell'H.D.D. che si trovano attualmente nel nostro videonoleggio furono recuperati dalla Helios Academy durante la caduta della Vecchia Capitale: un'eredità tramandata direttamente dall'accademia.
+L'H.D.D. (Hollow Deep Dive System) è una tecnologia sviluppata presso la [[Helios Academy]] per analizzare e interpretare i dati provenienti dagli Hollow.
 
-L'obiettivo dell'H.D.D. era superare il problema dell'osservazione degli Hollow dall'esterno. Dopo enormi investimenti di risorse e personale, i ricercatori scoprirono finalmente uno speciale segnale capace di attraversare la barriera degli Hollow.
+Il sistema permette di ricevere segnali provenienti dall'interno degli Hollow e ricostruirli in una forma comprensibile.
 
-Poiché questo segnale subisce una forte interferenza dell'Ether quando esce da un Hollow, deve essere ricostruito in una forma leggibile all'interno di un ambiente simulato simile a un Hollow sul lato ricevente. Ulteriori ricerche rivelarono che il corpo umano era il mezzo ideale per simulare tale ambiente.
+In termini semplici:
 
-Le **lenti cristalline intelligenti** impiantate in noi fratelli agiscono come un modem per i dati degli Hollow, collegandosi direttamente ai nostri cervelli e permettendo loro di simulare gli Hollow.
-
-Tuttavia, anche essendo gli ospiti più adatti a ricevere tali segnali, l'esposizione a dati Hollow così potenti mette sotto forte stress sia il nostro sistema cerebrale sia quello fisico.
-
-Inoltre, poiché l'H.D.D. consuma enormi quantità della nostra energia biologica, la nostra **attitudine all'Ether** è stata compromessa. Per questo motivo siamo stati costretti ad affidarci a **Eous** per esplorare gli Hollow, poiché al suo interno sono installati i dispositivi di adattamento e conduzione necessari al funzionamento dell'H.D.D.
-
-Oltre alle sue capacità di comunicazione, l'H.D.D. integra anche funzioni di archiviazione ed elaborazione dei dati degli Hollow.
-
-Sebbene un attacco hacker abbia danneggiato gran parte dei dati Hollow memorizzati localmente nell'H.D.D., l'arrivo di **Fairy** ci ha permesso di implementare un sistema di archiviazione cloud per tali dati.
-
-Successivamente, abbiamo appreso dal sindaco **Mayflower** che la professoressa Carole stava studiando metodi per ridurre il consumo energetico dell'H.D.D. sul corpo umano.
-
-Utilizzando i documenti di ricerca rimasti della professoressa, il sindaco ci ha aiutato a ottimizzare e aggiornare il sistema H.D.D., consentendoci ora di entrare direttamente negli Hollow senza dover dipendere da Eous.
-
-Eppure, sia riguardo ai segreti nascosti dietro l'H.D.D., sia riguardo a quelli che circondano noi stessi, sappiamo ancora molto poco.
+> L'H.D.D. consente di "immergersi" nei dati di un Hollow senza trovarsi fisicamente al suo interno.
 
 ---
 
-### Dettagli particolarmente importanti per la lore
+## Origini
 
-Da questo testo apprendiamo che:
+### [[Arche]]
 
-- **Arche** ha ideato l'H.D.D.
-- **Carole Arna** ne ha guidato lo sviluppo.
-- I cervelli di **Belle e Wise simulano letteralmente un Hollow**.
-- Gli impianti oculari funzionano come un **modem biologico** collegato al cervello.
-- La loro bassa Ether Aptitude è una conseguenza diretta dell'utilizzo dell'H.D.D.
-- Eous era inizialmente necessario perché il corpo di Belle e Wise non poteva sopportare l'esplorazione diretta degli Hollow.
-- Dopo gli aggiornamenti basati sulle ricerche di Carole, possono entrare direttamente negli Hollow.
-- Nemmeno Belle e Wise conoscono ancora tutta la verità sulle modifiche che hanno ricevuto alla Helios Academy.
+Il concetto originale dell'H.D.D. fu ideato dal Professor Arche.
 
-Quest'ultimo punto è particolarmente interessante perché suggerisce che **neppure Phaethon sa realmente cosa gli sia stato fatto durante il progetto Helios Academy**.
+Il suo obiettivo era superare i limiti dell'osservazione tradizionale degli Hollow.
+
+### [[Carole Arna]]
+
+Lo sviluppo pratico del sistema fu guidato da Carole Arna presso la Helios Academy.
+
+Gran parte delle ricerche che conosciamo oggi derivano dal lavoro svolto sotto la sua supervisione.
+
+---
+
+## Come funziona?
+
+Durante le ricerche della Helios Academy venne scoperto uno speciale segnale in grado di attraversare la barriera degli [[Hollow]].
+
+Tale segnale però subisce forti interferenze Etheriche.
+
+Per questo motivo:
+
+- deve essere ricostruito
+- deve essere interpretato
+- deve essere elaborato in un ambiente simulato
+
+Le ricerche dimostrarono che:
+
+> il cervello umano era il sistema più adatto per simulare artificialmente l'ambiente di un Hollow.
+
+---
+
+## [[Phaethon (Belle e Wise)]]
+
+Qui arriva la parte più importante.
+
+Belle e Wise ricevettero impianti oculari speciali collegati direttamente al cervello.
+
+Questi impianti:
+
+- ricevono dati Hollow
+- elaborano i segnali
+- simulano le condizioni di un Hollow
+
+Per questo motivo Belle e Wise non sono semplici utilizzatori dell'H.D.D.
+
+> Sono una parte integrante del sistema.
+
+---
+
+## [[Eous]]
+
+L'utilizzo diretto dell'H.D.D. esercitava un forte stress sul corpo di Belle e Wise.
+
+Per anni i due fratelli furono costretti a utilizzare Eous come intermediario.
+
+Eous contiene dispositivi di adattamento e conduzione che permettono il funzionamento dell'H.D.D. senza esporre direttamente il corpo umano ai suoi effetti.
+
+---
+
+## [[Fairy]]
+
+In seguito Fairy venne integrata nel sistema.
+
+Dopo l'attacco hacker che danneggiò gran parte dei dati Hollow archiviati localmente, Fairy rese possibile un sistema di archiviazione e gestione molto più avanzato.
+
+---
+
+## Effetti collaterali
+
+L'utilizzo prolungato dell'H.D.D. provoca conseguenze significative.
+
+Tra queste:
+
+- forte consumo energetico biologico
+- stress cerebrale
+- stress fisico
+- riduzione dell'Ether Aptitude
+
+La bassa Ether Aptitude di Belle e Wise è direttamente collegata all'utilizzo del sistema.
+
+---
+
+## Aggiornamenti recenti
+
+Grazie ai documenti di ricerca lasciati da Carole Arna e recuperati successivamente:
+
+- il sistema è stato ottimizzato
+- il consumo energetico è stato ridotto
+- Belle e Wise possono ora entrare direttamente negli Hollow
+
+senza dipendere completamente da Eous.
+
+---
+
+## Perché è importante per la lore?
+
+L'H.D.D. è uno dei progetti più importanti della Helios Academy.
+
+Collega direttamente:
+
+- Arche
+- Carole Arna
+- Belle e Wise
+- Eous
+- Fairy
+- Hollow Zero
+- Helios Academy
+
+Molti dei misteri principali della trama ruotano attorno a questa tecnologia.
+
+---
+
+## Domande aperte
+
+- Perché Belle e Wise furono scelti?
+- Quali modifiche hanno realmente ricevuto?
+- Quanto era avanzata la ricerca di Arche?
+- L'H.D.D. è collegato alle Quattro Keys?
+- Esiste una connessione con Hollow Zero?
+
+---
+
+Secondo me questa struttura è molto più vicina a come oggi scrivi le tue pagine migliori (Hollow Zero, Helios Academy, Carole, Creator).

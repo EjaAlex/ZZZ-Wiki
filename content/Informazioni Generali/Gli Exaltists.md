@@ -35,7 +35,7 @@ Secondo la loro dottrina:
 
 # Organizzazione
 
-## The Creator
+## [[The Creator]]
 
 Al vertice assoluto.
 
@@ -51,7 +51,7 @@ Possiedono capacità speciali legate a Ether e Miasma.
 
 ## Membri noti
 
-### Sarah Floren
+### [[Sarah Floren]]
 
 Probabilmente la figura più importante del culto.
 

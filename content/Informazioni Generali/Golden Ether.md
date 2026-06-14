@@ -46,7 +46,7 @@ Tuttavia nessuna spiegazione ufficiale è stata ancora fornita.
 
 ---
 
-# Collegamento con Phaethon
+# Collegamento con [[Phaethon (Belle e Wise)]]
 
 La prima descrizione dettagliata del Golden Ether è collegata a una visione o ricordo riguardante **Wise**.
 
@@ -60,7 +60,7 @@ Questo ha portato molti giocatori a sospettare un collegamento diretto tra il Go
 
 ---
 
-# Collegamento con Hollow Zero
+# Collegamento con [[Hollow Zero]]
 
 Uno dei sospetti più diffusi nella community riguarda Hollow Zero.
 
