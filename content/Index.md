@@ -7,3 +7,4 @@ Dentro troverai:
 - Aree
 - Storia
 - Fazioni
+- Riassunti delle patch (senza troppi spoiler)
