@@ -22,6 +22,6 @@ Il suo interno:
 
 In pratica è un Hollow che sembra reagire direttamente alla coscienza umana.
 
-### Collegamento con Joyous
+### Collegamento con [[Joyous]]
 
 Fu il primo Grande Hollow completamente navigato dal Void Hunter **Joyous**, una delle figure leggendarie della storia di New Eridu.
