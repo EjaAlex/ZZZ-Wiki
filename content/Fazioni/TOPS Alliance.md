@@ -9,6 +9,6 @@ TOPS = “The Outstanding Paragons Alliance”
 
 Ruolo:
 
-> controllo economico e influenza sulla città
+>   controllo economico e influenza sulla città
 
 una delle fazioni più potenti “dietro le quinte”

@@ -14,4 +14,4 @@ Membri principali:
 
 Ruolo:
 
-> gruppo indipendente che lavora per sopravvivere e accettare qualsiasi incarico
+>   gruppo indipendente che lavora per sopravvivere e accettare qualsiasi incarico

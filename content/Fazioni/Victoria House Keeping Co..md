@@ -14,4 +14,4 @@ Membri:
 
 Ruolo:
 
-> sicurezza privata e operazioni ad alto rischio
+>   sicurezza privata e operazioni ad alto rischio

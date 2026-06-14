@@ -15,4 +15,4 @@ Membri:
 
 Ruolo:
 
-> controllo territoriale e trasporti nell’Outer Ring
+>   controllo territoriale e trasporti nell’Outer Ring

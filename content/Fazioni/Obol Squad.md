@@ -14,4 +14,4 @@ Membri:
 
 Ruolo:
 
-> guerra ad alto livello contro minacce estreme
+>   guerra ad alto livello contro minacce estreme

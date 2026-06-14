@@ -14,4 +14,4 @@ Membri:
 
 Ruolo:
 
-> eliminazione diretta delle minacce più pericolose
+>   eliminazione diretta delle minacce più pericolose

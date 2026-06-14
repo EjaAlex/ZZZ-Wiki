@@ -18,7 +18,7 @@ L’Outer Ring è:
 
 In pratica:
 
-> è la frontiera viva della civiltà moderna, dove la legge è fragile e la sopravvivenza dipende dalle proprie capacità.
+>   è la frontiera viva della civiltà moderna, dove la legge è fragile e la sopravvivenza dipende dalle proprie capacità.
 
 ---
 

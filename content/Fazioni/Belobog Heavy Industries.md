@@ -15,4 +15,4 @@ Membri:
 
 Ruolo:
 
-> infrastruttura, costruzione e supporto tecnico negli Hollow
+>   infrastruttura, costruzione e supporto tecnico negli Hollow
