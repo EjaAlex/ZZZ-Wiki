@@ -13,7 +13,7 @@ Contributi conosciuti:
 - Fu CEO del Marcel Group.
 - Fondò [[Roscaelifer]].
 - Guidò le prime spedizioni nel [[Lemnian Hollow]].
-- Scoprì e sfruttò il Lumite Ore utilizzato per creare il Porcelume.
+- Scoprì e sfruttò il Lumite Ore utilizzato per creare il [[Porcelume e Flint Porcelloy]].
 
 ## Curiosità
 

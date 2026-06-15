@@ -5,7 +5,7 @@
 
 - Fondatore della [[Helios Academy]].
 - Uno dei primi [[Void Hunters]].
-- Scoprì le caratteristiche comuni condivise da tutti gli Hollow conosciuti.
+- Scoprì le caratteristiche comuni condivise da tutti gli [[Hollow]] conosciuti.
 - Ideatore originale dell'[[H.D.D. (Hollow Deep Dive System)]]
 
 ## Destino

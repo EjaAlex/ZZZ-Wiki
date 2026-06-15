@@ -19,7 +19,7 @@ In pratica:
 
 ### Dettagli particolarmente importanti per la lore
 
-- È il "progenitore spirituale" di tutti i Proxy.
+- È il "progenitore spirituale" di tutti i [[Proxy]].
 - Utilizzò un prototipo di Bangboo costruito da Sunbringer.
 - Fu il primo a dimostrare che gli Hollow potevano essere esplorati in modo sistematico.
 

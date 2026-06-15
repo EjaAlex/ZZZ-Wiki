@@ -10,7 +10,7 @@
 
 ## Curiosità
 
-Possiede la Void Hunter Weapon chiamata **Thaumiel**.
+Possiede la Void Hunter Weapon chiamata **[[Thaumiel]]**.
 
 ### Dettagli particolarmente importanti per la lore
 

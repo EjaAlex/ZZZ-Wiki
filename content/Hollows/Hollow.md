@@ -1,4 +1,7 @@
 
+![[Hollow.jpeg]]
+
+
 Gli **Hollow** sono il fenomeno più importante e misterioso dell'universo di _Zenless Zone Zero_. Sono anomalie spaziali che hanno trasformato il mondo, causato la caduta di civiltà e costretto l'umanità a riorganizzarsi attorno a poche città sopravvissute come **New Eridu**.
 
 Tutta la storia di ZZZ — dalla [[Helios Academy]] a [[Phaethon (Belle e Wise)]], fino a [[Hollow Zero]] — ruota attorno alla loro esistenza.

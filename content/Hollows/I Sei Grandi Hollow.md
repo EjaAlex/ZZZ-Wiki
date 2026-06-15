@@ -1,12 +1,12 @@
 
 Oltre a **Hollow Zero**, New Eridu possiede attualmente altri **sei grandi Hollow** sottoposti a monitoraggio intensivo:
 
-- **Cretan**
-- **Lemnian**
-- **Pursenas**
-- **Hawara**
-- **Solove**
-- **Papago**
+- **[[Cretan Hollow]]**
+- **[[Lemnian Hollow]]**
+- **[[Pursenas Hollow]]**
+- **[[Hawara Hollow]]**
+- **[[Solove Hollow]]**
+- **[[Papago Hollow]]**
 
 Sebbene questi sei **Grandi Hollow** non raggiungano le dimensioni e il livello di attività di **[[Hollow Zero]]**, rimangono enormemente vasti e, per varie ragioni, impossibili da eliminare.
 

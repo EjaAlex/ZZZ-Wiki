@@ -8,7 +8,7 @@ Hoshimi Miyabi è una delle figure più importanti di _Zenless Zone Zero_:
 - È la **capo della Section 6 delle operazioni speciali sugli Hollow**
 - È la **più giovane Void Hunter attuale**
 - È considerata un’élite assoluta nel combattimento contro gli Ethereal
-- Usa la spada ereditaria della famiglia Hoshimi: **Tailless**
+- Usa la spada ereditaria della famiglia Hoshimi: **[[Tailless]]**
 - Ha ricevuto il titolo di Void Hunter per imprese eccezionali contro enormi minacce Hollow
 
 Ma dietro il suo ruolo ufficiale c’è una storia profondamente legata a trauma, eredità familiare e al mistero degli Hollow.
