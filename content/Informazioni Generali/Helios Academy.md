@@ -12,7 +12,7 @@ Fondata dal **Professor Arche**, la Helios Academy contribuì ad alcune delle pi
 
 # Fondazione
 
-La Helios Academy venne fondata da **Arche**, uno dei primi Void Hunters e uno dei più importanti studiosi degli Hollow.
+La Helios Academy venne fondata da **[[Arche]]**, uno dei primi Void Hunters e uno dei più importanti studiosi degli Hollow.
 
 Arche fu il primo a identificare molte delle caratteristiche comuni condivise dagli Hollow conosciuti e dedicò la propria vita alla ricerca della loro vera natura.
 
@@ -24,9 +24,9 @@ Le sue ricerche trasformarono rapidamente la Helios Academy in uno dei più avan
 
 Le attività dell'accademia comprendevano:
 
-- studio degli Hollow
-- ricerca Etherica
-- navigazione Hollow
+- studio degli [[Hollow]]
+- ricerca sull [[Ether]]
+- navigazione [[Hollow]]
 - sviluppo di tecnologie sperimentali
 - analisi delle anomalie Etheriche
 
@@ -34,13 +34,13 @@ Molti dei sistemi utilizzati ancora oggi da New Eridu derivano direttamente o in
 
 ---
 
-# Carole Arna
+# [[Carole Arna]]
 
 Tra i ricercatori più importanti della Helios Academy figurava **Carole Arna**, Direttrice della Ricerca Avanzata.
 
 Tra i suoi risultati più importanti:
 
-- sviluppo dell'H.D.D.
+- sviluppo dell'[[H.D.D. (Hollow Deep Dive System)]]
 - creazione di Eous
 - formazione di Belle e Wise
 - studio avanzato dei fenomeni Hollow
@@ -49,7 +49,7 @@ Carole era inoltre una stretta collaboratrice dell'amministrazione di Eridu e un
 
 ---
 
-# Belle e Wise
+# [[Phaethon (Belle e Wise)]]
 
 Belle e Wise trascorsero la propria infanzia all'interno della Helios Academy.
 
@@ -79,7 +79,7 @@ L'H.D.D. rappresenta ancora oggi una delle tecnologie più misteriose della seri
 
 ---
 
-# La Caduta della Vecchia Capitale
+# La Caduta di [[Eridu (La Vecchia Capitale)]]
 
 Undici anni prima degli eventi principali, la Helios Academy venne coinvolta nella catastrofe che distrusse Eridu.
 

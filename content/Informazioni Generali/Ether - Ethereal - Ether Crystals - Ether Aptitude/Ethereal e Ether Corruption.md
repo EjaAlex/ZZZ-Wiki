@@ -77,7 +77,7 @@ Molti sistemi avanzati sfruttano proprietà Etheriche.
 
 Sistemi come:
 
-**H.D.D. (Hollow Deep Dive System)**
+**[[H.D.D. (Hollow Deep Dive System)]]**
 
 non potrebbero esistere senza l'Ether.
 
